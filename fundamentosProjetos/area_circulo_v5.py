@@ -8,4 +8,3 @@ raio = input('informe o raio: ')
 print('area do circulo', pi * float(raio) ** 2)
 
 print('Nome do módulo', __name__)
-
