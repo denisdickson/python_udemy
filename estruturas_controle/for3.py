@@ -1,0 +1,16 @@
+# percorrendo diciionarios
+
+produto = {'nome': 'Caneta', 'Preco': 15.00,
+           'importada': True, 'estoque': 793}
+
+for chave in produto:
+    print(chave)
+
+for valor in produto.values():
+    print(valor)
+
+for chave, valor in produto.items():
+    print(chave, '=', valor)
+
+
+print(chave, valor)
