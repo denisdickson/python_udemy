@@ -1,4 +1,3 @@
-#!Python
+##!Python
 
-def fibonacci(quantidade, sequencia=(0, 1)):
-    
+#def fibonacci(quantidade, sequencia=(0, 1)):
