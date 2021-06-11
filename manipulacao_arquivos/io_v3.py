@@ -1,5 +1,5 @@
 #!Python3
-##Espaços corrigidos na saída 
+# Espaços corrigidos na saída
 arquivo = open('pessoas.csv')
 
 for registro in arquivo:
