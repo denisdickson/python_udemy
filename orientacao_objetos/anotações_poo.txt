@@ -1,0 +1,44 @@
+Visão Geral POO
+
+POO == Paradigma para organizar ideias abstraindo do mundo real e trazendo pra código 
+
+funcao(alg) Dado(param.)
+>>>     len (lista)
+
+
+Dado  Método
+lista.len()
+#métodos são comportamentos e atributos são as características 
+
+Objeto >>> Atributos {são dados} Comportamentos{Método/Função}
+    Objeto agrupa dados e comportamentos. Membros do objeto. 
+
+
+
+Class vs Objeto
+
+Classe funciona como um molde. Consegue-se criar varias instancias{objeto} a partir de uma classe
+
+classe  obt1    obj2    0bj3
+dia     1       2       9   
+Mes     2       3       12      
+ano     2020    2019    2021
+
+Pilares da Orientação a Objetos 
+
+1 - Herança
+2 - Polimorfismo
+3 - Encapsulamento
+4 - Abstração 
+
+-Herança: Capacidade de um objeto herdar do outro
+Ex:    civic é um carro 
+    Tipo carro -> civic
+    carro tem um(a) motor -> é uma composição e não uma Herança 
+
+- Encapsulamento: capacidade de usar objetos sem que seja necessário entendimento do funcionamento
+interno.  
+
+- Polimorfismo: capacidade de substituir elemento concreto por conceito abstrato. 
+
+Abstração : simplificar mundo real em software 
