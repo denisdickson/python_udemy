@@ -14,7 +14,7 @@ class tarefa:
     def __str__(self):
         return self.descricao + ('(Concluída)' if self.feito else '')
 
-aaasa
+
 def main():
     casa = []
     casa.append(tarefa("passar roupa"))
